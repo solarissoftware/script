@@ -1,3 +1,3 @@
 return {
-    ["settings"] = "Settings"
+    ["settings"]="Settings"
 }
